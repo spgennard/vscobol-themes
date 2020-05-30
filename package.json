@@ -2,11 +2,12 @@
     "name": "cobol-themes",
     "displayName": "COBOL Themes Pack",
     "description": "COBOL Themes (Eclipse, NX, ISPF, EntCOBOL) Inspired",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "bitlang",
     "engines": {
         "vscode": "^1.45.0"
     },
+    "icon": "images/vscode_themes.png",
     "categories": [
         "Themes"
     ],
