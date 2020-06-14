@@ -1,8 +1,8 @@
 {
     "name": "cobol-themes",
-    "displayName": "COBOL Themes Pack",
+    "displayName": "COBOL Themes",
     "description": "COBOL Themes (Eclipse, NX, ISPF, EntCOBOL) Inspired",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "publisher": "bitlang",
     "engines": {
         "vscode": "^1.45.0"
@@ -11,9 +11,10 @@
     "categories": [
         "Themes"
     ],
+    "license": "MIT",
     "repository": {
         "type": "git",
-        "url" : "https://github.com/spgennard/vscobol-themes"
+        "url": "https://github.com/spgennard/vscobol-themes"
     },
     "contributes": {
         "themes": [
@@ -37,7 +38,6 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/entcob-color-theme.json"
             }
-
         ]
     }
 }

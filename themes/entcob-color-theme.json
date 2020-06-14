@@ -1,4 +1,14 @@
 {
+	"name": "entcob",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#000000",
+		"editorCursor.foreground": "#F8F8F0",
+		"editor.foreground": "#cfcfcf",
+		"editorWhitespace.foreground": "#3B3A32",
+		"editor.lineHighlightBackground": "#3E3D32",
+		"editor.selectionBackground": "#49483E"
+	},
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -8,7 +18,7 @@
 			}
 		},
 		{
-  			"name": "String",
+			"name": "String",
 			"scope": "string",
 			"settings": {
 				"foreground": "#eeed17"
@@ -129,7 +139,7 @@
 				"fontStyle": "",
 				"foreground": "#95faab"
 			}
-		},		
+		},
 		{
 			"name": "Db/2 API",
 			"scope": "keyword.verb.db2",
@@ -153,7 +163,7 @@
 				"fontStyle": "",
 				"foreground": "#000000"
 			}
-		},    
+		},
 		{
 			"name": "JSON-XML",
 			"scope": "keyword.json keyword.xml",
@@ -169,7 +179,7 @@
 				"fontStyle": "bold",
 				"foreground": "#AE81FF"
 			}
-		},            
+		},
 		{
 			"name": "other statements",
 			"scope": "keyword.other.cobol keyword.otherverbs.cobol keyword.identifiers.cobol",
@@ -185,7 +195,7 @@
 				"fontStyle": "",
 				"foreground": "#F8F8F2A5"
 			}
-		},    
+		},
 		{
 			"name": "Invalid",
 			"scope": "invalid keyword.reserved.cobol",
@@ -208,14 +218,5 @@
 				"foreground": "#eeed17"
 			}
 		}
-	],
-	"colors": {
-		"editor.background": "#000000",
-		"editorCursor.foreground": "#F8F8F0",
-		"editor.foreground": "#cfcfcf",
-		"editorWhitespace.foreground": "#3B3A32",
-		"editor.lineHighlightBackground": "#3E3D32",
-		"editor.selectionBackground": "#49483E"
-	},
-	"name": "entcob"
+	]
 }
