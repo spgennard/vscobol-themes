@@ -13,7 +13,7 @@
    id="svg28"
    sodipodi:docname="vscode_themes.png.svg"
    inkscape:version="1.0 (b51213c273, 2020-08-10)"
-   inkscape:export-filename="/home/spg/src/vscode_cobol/images/cobol.png"
+   inkscape:export-filename="/home/spg/src/vscode_themes/images/vscode_themes.png"
    inkscape:export-xdpi="36"
    inkscape:export-ydpi="36">
   <metadata
@@ -52,12 +52,12 @@
      inkscape:current-layer="svg28"
      inkscape:document-rotation="0" />
   <rect
-     style="fill:#094bac;stroke-width:1.1981"
+     style="fill:#094bac;stroke-width:1.4994"
      id="rect207"
      width="260"
-     height="107.2005"
+     height="167.89702"
      x="30"
-     y="194.30461" />
+     y="142.55348" />
   <polyline
      fill="rgb(76, 151, 92)"
      points="62,239 28,13"
@@ -87,7 +87,7 @@
      id="text12"
      lengthAdjust="spacing"
      style="font-style:normal;font-weight:bold;font-size:105.9px;font-family:Consolas, 'Arial Black';fill:#005820;stroke:#0b0b0b"
-     transform="matrix(0.67099976,0,0,1.0033234,55.534739,50.785573)"><tspan
+     transform="matrix(0.65627105,0,0,1.0034672,55.63951,50.774124)"><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:82.6999px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a8cbfe"
        id="tspan36">COBOL</tspan></text>
   <text
@@ -103,7 +103,7 @@
      id="text12-9"
      lengthAdjust="spacing"
      style="font-style:normal;font-weight:bold;font-size:105.9px;font-family:Consolas, 'Arial Black';fill:#81b4fe;stroke:#0b0b0b"
-     transform="matrix(0.79170389,0,0,1.00216,38.558319,180.82222)"><tspan
+     transform="matrix(0.79189621,0,0,0.87479483,38.558477,200.04132)"><tspan
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:78.0007px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#81b4fe"
        id="tspan36-6">Themes</tspan></text>
 </svg>
