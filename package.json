@@ -2,7 +2,7 @@
     "name": "cobol-themes",
     "displayName": "COBOL Themes",
     "description": "COBOL Themes (Eclipse, NX, ISPF, EntCOBOL) Inspired",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "publisher": "bitlang",
     "engines": {
         "vscode": "^1.45.0"
