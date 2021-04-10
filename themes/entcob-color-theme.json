@@ -1,5 +1,5 @@
 {
-	"name": "entcob",
+	"name": "Enterprise COBOL (for entcobol dialect)",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#000000",

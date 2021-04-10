@@ -1,5 +1,5 @@
 {
-	"name": "Throwback Light",
+	"name": "Throwback (Eclipse Inspired)",
 	"type": "light",
 	"colors": {
 		"editor.background": "#ffffff",
@@ -54,6 +54,13 @@
 			"settings": {
 				"background": "#96000014",
 				"foreground": "#660000"
+			}
+		},
+		{
+			"name": "Control keywords",
+			"scope": "keyword.control",
+			"settings": {
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -440,5 +447,11 @@
 				"foreground": "#434343"
 			}
 		}
-	]
+	],
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"variable.readonly:COBOL": {
+			"bold": true
+		}
+	}
 }

@@ -1,5 +1,5 @@
 {
-	"name": "Throwback NX Light",
+	"name": "Throwback (NX Inspired)",
 	"type": "light",
 	"colors": {
 		"editor.background": "#ffffff",
@@ -45,9 +45,8 @@
 			"scope": [
 				"meta.symbol"
 			],
-
-			"settings":{
-				"foreground":"#8D1A1A"	
+			"settings": {
+				"foreground": "#8D1A1A"
 			}
 		},
 		{
@@ -55,12 +54,11 @@
 			"scope": [
 				"meta.symbol.jcl"
 			],
-
-			"settings":{
-				"foreground":"#000000"	
+			"settings": {
+				"foreground": "#000000"
 			}
-		},		
-		{	
+		},
+		{
 			"name": "Invalid - Deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
@@ -73,6 +71,13 @@
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#ff0000"
+			}
+		},
+		{
+			"name": "Control keywords",
+			"scope": "keyword.control",
+			"settings": {
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -459,5 +464,11 @@
 				"foreground": "#434343"
 			}
 		}
-	]
+	],
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"variable.readonly:COBOL": {
+			"bold": true
+		}
+	}
 }
