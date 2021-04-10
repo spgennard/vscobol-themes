@@ -1,4 +1,5 @@
 {
+	"$schema": "vscode://schemas/color-theme",
 	"name": "Enterprise COBOL (for entcobol dialect)",
 	"type": "dark",
 	"colors": {
@@ -218,5 +219,11 @@
 				"foreground": "#eeed17"
 			}
 		}
-	]
+	],
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"variable.readonly:COBOL": {
+			"bold": true
+		}
+	}
 }

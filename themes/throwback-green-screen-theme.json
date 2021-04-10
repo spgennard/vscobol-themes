@@ -1,4 +1,5 @@
 {
+	"$schema": "vscode://schemas/color-theme",
 	"name": "Throwback (ISPF Inspired)",
 	"type": "dark",
 	"colors": {
@@ -24,7 +25,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#00000"
+				"foreground": "#27725E"
 			}
 		},
 		{
@@ -58,9 +59,18 @@
 			}
 		},
 		{
-			"name": "Operator, Misc",
+			"name": "Keyword, Control",
 			"scope": [
 				"keyword.control",
+			],
+			"settings": {
+				"foreground": "#721011",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Operator, Misc",
+			"scope": [
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
@@ -482,5 +492,11 @@
 				"foreground": "#b267e6"
 			}
 		}
-	]
+	],
+	"semanticHighlighting": true,
+	"semanticTokenColors": {
+		"variable.readonly:COBOL": {
+			"bold": true
+		}
+	}
 }
