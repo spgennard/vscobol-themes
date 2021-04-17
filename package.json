@@ -2,7 +2,7 @@
     "name": "cobol-themes",
     "displayName": "COBOL Themes",
     "description": "COBOL Themes (Eclipse, NX, ISPF, EntCOBOL) Inspired",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "publisher": "bitlang",
     "engines": {
         "vscode": "^1.45.0"
@@ -37,6 +37,11 @@
                 "label": "Enterprise COBOL (for entcobol dialect)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/entcob-color-theme.json"
+            },
+            {
+                "label": "Dark Green Modern",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-modern.json"
             }
         ]
     }
