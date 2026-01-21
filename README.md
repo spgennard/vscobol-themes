@@ -8,3 +8,4 @@
 | Throwback (Eclipse Inspired)            | Light theme simular to one used in Eclipse                | ![](images/sample_eclipse.png) |
 | Throwback (NX Inspired)                 | Dark theme simular to one used in Net Express             | ![](images/sample_nx.png) |
 | Enterprise COBOL (for entcobol dialect) | Dark theme designed for use with Enterprise COBOL dialect |  ![](images/sample_entcobol.png) |
+| Rocket COBOL | Dark theme designed for use with Enterprise COBOL dialect |  ![](images/sample_rocket.png) |
